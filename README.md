@@ -1,0 +1,1 @@
+Boilerplate for ESX scripts on FiveM
